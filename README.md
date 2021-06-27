@@ -1,4 +1,4 @@
-# vol-cloud-game-quick-web-demo
+# Quick-web-demo for Cloud Gaming
 this repo is for personal practice using vol-cloud-game websdk
 
 Before use this project, you should:
