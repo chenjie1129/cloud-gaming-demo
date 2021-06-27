@@ -2,7 +2,7 @@
 this repo is for personal practice using vol-cloud-game websdk
 
 Before use this project, you should:
-1. get SDK from Velo
+1. get SDK from https://www.volcengine.com/
 2. import SDK to the project root directory
 
 To run the project, you should:
